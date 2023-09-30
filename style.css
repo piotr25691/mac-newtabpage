@@ -8,9 +8,10 @@ body {
 	background-size: cover;
 	background-position: center center;
 	background-attachment: fixed;
-	color: #ffffff;
+	color: #fff;
 	font-weight: normal;
 	font-size: 13px;
+	margin: 0;
 }
 
 
